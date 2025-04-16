@@ -1,0 +1,3 @@
+C:/Users/ramiv/Downloads/puissance-4 2/puissance-4/cmake-build-debug/CMakeFiles/puissance.dir
+C:/Users/ramiv/Downloads/puissance-4 2/puissance-4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ramiv/Downloads/puissance-4 2/puissance-4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
